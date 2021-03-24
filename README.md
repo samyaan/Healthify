@@ -35,5 +35,6 @@ a part of this system.
 </head>
 <body>
 <h1>Features Diagram</h1>
-<img src="features.png>
+ <img src="features.PNG>
 </body>
+</html>
